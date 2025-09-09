@@ -7,10 +7,10 @@ compatibility_flags = ["nodejs_compat"]
 # Mandatory
 ROOT_DOMAIN = "vortexx.biz.id"
 SERVICE_NAME = "proxy"
-API_KEY = ""
-API_EMAIL = ""
-ACCOUNT_ID = ""
-ZONE_ID = ""
+API_KEY = "d3d7edcb2dee66d4cc6df786584f0f4236a32"
+API_EMAIL = "kaiakun53@gmail.com"
+ACCOUNT_ID = "da2a69307929c18d230d39973516ab5e"
+ZONE_ID = "befe681ea297778aa1e7eef4bb532ed8"
 
 # Optional
 PORTS = "443,80"
@@ -23,4 +23,4 @@ CONVERTER_URL = "https://api.foolvpn.me/convert"
 DONATE_LINK = "https://trakteer.id/dickymuliafiqri/tip"
 BAD_WORDS_LIST = "https://gist.githubusercontent.com/adierebel/a69396d79b787b84d89b45002cb37cd6/raw/6df5f8728b18699496ad588b3953931078ab9cf1/kata-kasar.txt"
 PROXY_PER_PAGE = "24"
-REVERSE_PROXY_TARGET = "example.com"
+REVERSE_PROXY_TARGET = "proxy.vortexx.biz.id"
