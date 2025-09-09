@@ -1,12 +1,12 @@
-name = "vortexvpn"
+name = "proxy"
 main = "index.js"
 compatibility_date = "2023-09-01"
 compatibility_flags = ["nodejs_compat"]
 
 [vars]
 # Mandatory
-ROOT_DOMAIN = "workers.dev"
-SERVICE_NAME = "vortex"
+ROOT_DOMAIN = "vortexx.biz.id"
+SERVICE_NAME = "proxy"
 API_KEY = ""
 API_EMAIL = ""
 ACCOUNT_ID = ""
